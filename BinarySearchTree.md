@@ -11,16 +11,16 @@ Root 7'dir.Root'un sağında 8, solunda 5 bulunur.
 
 8'in sağında 9 bulunur.
 
-                    7
-                  (root)
+                           7
+                         (root)
 
-            5                8
+                    5                8
               
-       1         6               9
+                1         6               9
             
-   0      3 
+            0      3 
 
-      2       4
+                2       4
 
 
 PatikaDev profilim
